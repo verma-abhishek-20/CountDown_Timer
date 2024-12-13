@@ -6,7 +6,7 @@
         .main{
             width: 100vw;
             height: 100vh;
-            background: url("Glass_img_.jpg");
+            background: url("./Image/Glass_img_.jpg");
             background-size: cover;
         }
         .blackColor_Part{
