@@ -1,0 +1,47 @@
+        *{
+            padding: 0px;
+            margin: 0px;
+            box-sizing: border-box;
+        }
+        .main{
+            width: 100vw;
+            height: 100vh;
+            background: url("Glass_img_.jpg");
+            background-size: cover;
+        }
+        .blackColor_Part{
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        
+        }
+        .title{
+            text-align: center;
+            margin-top: 10px;
+            color: white;
+        }
+        .col{
+            width: 600px;
+            height: 70px;
+            display: flex;
+            justify-content: center;
+            color: white;
+            margin-top: 15px;
+            /* border: 2px solid red; */
+
+        }
+        .col div{
+            text-align: center;
+        }
+        input{
+            height: 50px;
+            width: 50%;
+            text-align: center;
+            border-color:brown;
+            background-color: rgba(255, 255, 255, 0.9);
+            font-size: larger;
+            
+        }
